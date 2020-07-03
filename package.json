@@ -8,8 +8,21 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "asteroid": "^2.0.3",
+    "cc-comet": "^1.0.53",
+    "cookie": "^0.4.1",
+    "crypto-js": "^4.0.0",
+    "formik": "^2.1.4",
+    "js-cookie": "^2.2.1",
+    "moment": "^2.27.0",
     "next": "9.3.5",
+    "next-cookie": "^2.3.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-loader-spinner": "^3.1.14",
+    "react-lottie": "^1.2.3",
+    "recharts": "^1.8.5"
   }
 }
